@@ -1,0 +1,8 @@
+V2 :
+- Trayification.
+- Traduction en français.
+- Mise à jour pour BG2EE / EET.
+- Le mod n'installe plus un fichier AR1300.ARE modifié : le pnj est ajouté par script.
+- Corrections d'un effet et d'une icône de l'anneau.
+- Correction du Setup qui donnait une voix de femme à Xardas alors que c'est un homme.
+- Correction des coordonnées de placement qui ne le plaçaient pas à l'endroit montré sur le screenshot.

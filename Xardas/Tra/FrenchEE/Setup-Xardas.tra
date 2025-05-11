@@ -1,0 +1,30 @@
+@0    = ~NPC Xardas~
+@1    = ~Mag Xardas~
+@2    = ~Ha, ha... où sont ces Trolls ?~ [Male1]
+@3    = ~Je m'y mets tout de suite.~ [Male2]
+@4    = ~Que se passe-t-il ?~ [Male3]
+@5    = ~J'y travaille.~ [Male4]
+@6    = ~C'est parti.~ [Male5]
+@7    = ~La rumeur veut que ce puissant anneau ait été fabriqué pour amplifier le pouvoir magique de l'archimage Xardas, aussi mystérieux que l'anneau lui-même. On ne sait pas qui a crée l'anneau.
+Cet anneau est un moyen efficace d'augmenter sa puissance magique et son répertoire de sorts. Cependant il ne faut pas oublier qu'un excès d'objets magiques attire les voleurs, ce qui oblige généralement à griller quelques mains curieuses avec un flot d'énergie brûlante.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+ Confère un sort supplémentaire de chaque niveau
+ -1 au temps d'incantation des sorts
+ +25% de résistance à la magie
+ +25% de résistance au feu, au froid, à l'acide, au poison et à l'électricité
+ Immunité à l'absorption de niveaux
+ +20 au maximum de points de vie
+ Régénération de  1 point de vie toutes les 3 secondes
+ 
+Capacité de charges :
+ Une fois par jour invoque un Golem de pierre pendant 2 tours.
+ Deux fois par jour crée un Incinérateur d'Agannazar qui inflige 5D6 points de dégâts de feu.
+ 
+ Nécessite : 17 en intelligence.
+
+Uniquement utilisable par :
+ Mage~
+@8    = ~L'anneau de l'archimage Xardas~

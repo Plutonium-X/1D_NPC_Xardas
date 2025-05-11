@@ -1,0 +1,30 @@
+@0    = ~NPC Xardas~
+@1    = ~Mag Xardas~
+@2    = ~Ha, ha... gdzie sa te Trolle?~ [Female1]
+@3    = ~Robi siê.~ [Female2]
+@4    = ~co jest grane?.~ [Female3]
+@5    = ~Ju¿ biegnê.~ [Female4]
+@6    = ~Idê.~ [Female5]
+@7    = ~Podobno ten potê¿ny pierœcieñ wykonano po to, by spotêgowaæ magiczn¹ moc wysoko postawionego czarodzieja Xardas'a równie tajemniczego jak sam pierœcieñ; nie wiadomo jednak, kto nas¹czy³ go magi¹. Ten pierœcieñ to efektywny sposób na powiêkszenie magicznej mocy i repertuaru posiadanych zaklêæ. Nale¿y jednak pamiêtaæ, ¿e nadmiar œwiecide³ek przyci¹ga z³odziei, co zwykle owocuje koniecznoœci¹ przypieczenia paru ciekawskich r¹czek strumieniem ognistej energii.
+
+PARAMETRY:
+
+Specjalne: 
++1 czar na wszystkich poziomach
+ Zmniejsza szybkoœæ rzucania zaklêæ o 1
++25% do odpornoœci na magiê
++25% do odpornoœci na ogieñ, zimno, kwas, truciznê i elektrycznoœæ
+ Odpornoœæ na wyssanie poziomów
++20 do maksymalnej liczby p¿
+ Regeneruje 1 pkt. ¿ycia co 3 sekundy
+ Raz dziennie przywo³uje kamiennego golema na 20 rund
+
+Obra¿enia:
+ 5K6 od strumienia ognistej energii bez rzutu obronnego (mo¿na u¿yæ dwa razy dziennie) 
+ Zasiêg: 80 m
+ Obszar dzia³ania: 1 istota
+
+Mo¿e u¿ywaæ:
+ Mag
+ Wymagana inteligencja: 17~
+@8    = ~Pierœcieñ Arcymaga Xardas'a~

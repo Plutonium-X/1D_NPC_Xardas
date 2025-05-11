@@ -1,0 +1,7 @@
+IF
+	Global("XardasIsHere","AR1300",0)
+THEN
+	RESPONSE #100
+		SetGlobal("XardasIsHere","AR1300",1)
+		CreateCreature("1xardas",[3629.2734],12)
+END
