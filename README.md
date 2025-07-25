@@ -3,7 +3,7 @@
 Il vous attend près de l'entrée du donjon de'Arnise.
 
 Particularités :
-- Caractéristiques : FOR 12, DEX 18, CON 14, INTe 20, SAG 19, CHA 17.
+- Caractéristiques : FOR 12, DEX 18, CON 14, INT 20, SAG 19, CHA 17.
 - Son dialogue se résume à sa présentation.
 - Il peut lancer une fois par jour Protection contre le mal sur 3 mètres, trois fois par jour Immobilisation des morts-vivants et une fois par jour Métamorphose en loup-garou majeur.
 - Il est de niveau 16 mais il a les capacités de mémorisation d'un mage de niveau 18 : il peut lancer des sorts de niveau 9. Il connaît même Enchaînement.
